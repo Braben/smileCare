@@ -1,5 +1,14 @@
+import NavScrollExample from "./Components/Navbar";
+import TeamSection from "./Components/teamSection";
+
 function App() {
-  return <div>{/* Initial application setup */}</div>;
+  return (
+    <>
+    <NavScrollExample/>
+    <TeamSection/>
+    </>
+  );
 }
 
 export default App;
+
