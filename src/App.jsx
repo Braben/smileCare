@@ -6,6 +6,7 @@ function App() {
     <>
     <NavScrollExample/>
     <TeamSection/>
+    <p>Hello</p>
     </>
   );
 }
