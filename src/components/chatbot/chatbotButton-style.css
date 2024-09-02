@@ -1,0 +1,9 @@
+.chatbotContainer {
+  /* height: 50px;
+  width: 50px;
+  background-color: aquamarine; */
+  position: absolute;
+  right: 50px;
+  z-index: 1;
+  margin-right: 30px;
+}
